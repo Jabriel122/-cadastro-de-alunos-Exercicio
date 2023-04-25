@@ -20,7 +20,7 @@
 
 namespace Alunos
 {
-    public class Alunos
+    public class Alunos1
     {
         // Propriedades
         public string nome;
@@ -29,7 +29,7 @@ namespace Alunos
 
         public int idade;
 
-        public int RG;
+        public string RG;
 
         public Boolean bolsista;
 
@@ -44,10 +44,9 @@ namespace Alunos
             return mediaFinal;
         }
 
-        public void VerMensalidade()
+        public float VerMensalidade(float a, float b, float c)
         {
-            return valorMensalidade;
-            
+            return (c-(a/100)*b);
         }
 
     }

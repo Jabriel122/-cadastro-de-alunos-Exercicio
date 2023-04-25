@@ -1,0 +1,15 @@
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\bin\Debug\net7.0\Alunos.exe
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\bin\Debug\net7.0\Alunos.deps.json
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\bin\Debug\net7.0\Alunos.runtimeconfig.json
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\bin\Debug\net7.0\Alunos.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\bin\Debug\net7.0\Alunos.pdb
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\Alunos.csproj.AssemblyReference.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\Alunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\Alunos.AssemblyInfoInputs.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\Alunos.AssemblyInfo.cs
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\Alunos.csproj.CoreCompileInputs.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\Alunos.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\refint\Alunos.dll
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\Alunos.pdb
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\Alunos.genruntimeconfig.cache
+C:\Users\50849167825\Desktop\backend\Aprendendo-ClassEobjeto\Alunos\obj\Debug\net7.0\ref\Alunos.dll
